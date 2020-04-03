@@ -1,2 +1,2 @@
-# shared_trajectories
-A repo for sharing trajectory files with the simulation community.
+# Shared Trajectories
+Trajectory files from completed WESTPA simulations are provided here and can be freely downloaded and used by the simulation community. Files are grouped into directories based off of the system of interest. Subdirectories within those directories are organized based off of the type of simulation or the time when the simulation was completed. See individual README files for more information.
